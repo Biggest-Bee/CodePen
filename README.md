@@ -1,4 +1,3 @@
 # CodePen V1.4
-Copy the link in the file "CodePen" and search it up! New update: You can know use all quotes in the simulator, but make sure to use straight quotes in bloxd itself!
-
+Copy the link in the file "CodePen" and search it up! New update: Better error info feed in console log.
 Do not copy the version numbers(V1.4) into the search bar!
